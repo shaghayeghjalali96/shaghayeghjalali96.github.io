@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "shaghayegh jalali website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shaghayegh Jalali"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Shaghayegh Jalali's personal page covering technical explorations, professional ambitions, and community activity."
+url                      : "https://shaghayeghjalali96.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "shaghayegh jalali"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "healthy living activator, self-starter, coder."
   location         : "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: shaghayeghjalali96@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
